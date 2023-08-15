@@ -48,11 +48,11 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=Xfb74aIJXmRrUdfJyYo5"
+      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=4ApGJL6X95wxnOmGT9VA"
     }
   },
   "sprite": "https://openmaptiles.github.io/osm-bright-gl-style/sprite",
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=Xfb74aIJXmRrUdfJyYo5",
+  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=4ApGJL6X95wxnOmGT9VA",
   "layers": [
     {
       "id": "background",
